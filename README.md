@@ -158,6 +158,4 @@ sudo /opt/aws/amazon-cloudwatch-agent/bin/amazon-cloudwatch-agent-ctl -a stop
 
 If using SNS for alerts, don’t forget to confirm the email address via the subscription confirmation email from AWS!
 
----
-
 ```
